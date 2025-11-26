@@ -2,11 +2,11 @@
 
 ## **Личная информация**
 
-Фамилия: Гришкова
-Имя: Дарья
-Отчество: Александровна
-Дата рождения: 21.01.2008
-Пол: женский
+Фамилия: Гришкова  
+Имя: Дарья  
+Отчество: Александровна  
+Дата рождения: 21.01.2008  
+Пол: женский  
 Гражданство:  Российская Федерация
 
 ## **Образование**
@@ -17,7 +17,9 @@
 
 Я не очень люблю фотографироваться сама, но люблю путешествовать и фотографировать природу.
 
-![фото](c:\Users\dima5\AppData\Roaming\Telegram Desktop\photo_2025-11-26_18-53-14.jpg)
-![фото](c:\Users\dima5\AppData\Roaming\Telegram Desktop\photo_2025-11-26_18-58-10.jpg)
-![фото](c:\Users\dima5\AppData\Roaming\Telegram Desktop\photo_2025-11-26_18-59-10.jpg)
-![фото](c:\Users\dima5\AppData\Roaming\Telegram Desktop\photo_2025-11-26_19-00-21.jpg)
+![photo_2025-11-26_18-58-10](https://github.com/user-attachments/assets/d758a64e-f132-456a-9f90-194f419a49c9)
+ 
+![photo_2025-11-26_18-59-10](https://github.com/user-attachments/assets/8e0bbe94-e49e-4c97-9101-af2f85b50b60)
+  
+![photo_2025-11-26_19-00-21](https://github.com/user-attachments/assets/11e86a04-6cf2-4407-b50e-b8ff74aa1780)
+  
